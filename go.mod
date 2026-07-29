@@ -1,4 +1,4 @@
-module github.com/civo/civogo
+module github.com/aculnaig/civogo
 
 go 1.25.10
 
